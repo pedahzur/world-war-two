@@ -1,0 +1,16 @@
+operation,field,original,corrected,source
+Operation Speedwell,Commander,NaN,Captain Philip Pinckney and Captain Patrick Dudgeon,"web:99, web:100"
+Operation Begonia,Commander,NaN,61 men from British SAS and Eighth Army Airborne,"web:101, web:102"
+Operation Devon,Commander,NaN,Lt Col J C Manners (40 Commando) and Colonel Durnford-Slater (3 Commando),"web:103, web:79, web:80"
+Operation Bulbasket,Commander,NaN,Captain John Tonkin,"web:99, web:75, web:76"
+Operation Dingson,Commander,NaN,Colonel Pierre-Louis Bourgoin,"web:77, web:81, web:78"
+Operation Samwest,Commander,NaN,Lieutenant André Botella and Lieutenant Deschamps,web:79
+Operation Jonquil,Commander,NaN,Sergeant Major Bill Marshall (SAS party),"web:82, web:83"
+Operation Candytuft,Commander,NaN,Major Roy Farran,"web:84, web:85"
+Operation Maple,Commander,NaN,2 SAS (16 troopers in Thistledown and Driftwood operations),"web:86, web:87, web:88"
+Operation Saxifrage,Commander,NaN,Four small Special Air Service teams,web:89
+Operation Baobab,Commander,NaN,2 SAS party,"web:91, web:96"
+Operation Pomegranate,Commander,NaN,Major A. Widdrington and Lieutenant J. Q. Hughes,"web:92, web:94, web:97"
+Operation Baobab,Date Beginning,check if exists,"January 29, 1944",web:91
+Operation Baobab,Date Ending,check if exists,"January 31, 1944",web:91
+Operation Tombola,Commander,NaN,Major Roy Farran,"web:93, web:95, web:98"
